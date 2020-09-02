@@ -42,6 +42,9 @@ p {
 /* Hyperlink */
 
 a {
+  font-family: 'Roboto', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   cursor: pointer;
   color: #1976d2;
   text-decoration: none;
