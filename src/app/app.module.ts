@@ -8,6 +8,10 @@ import { TopBarComponent } from './top-bar/top-bar.component';
 import { ProductListComponent } from './product-list/product-list.component';
 import { FooterComponent } from './footer/footer.component';
 import { ContactComponent } from './contact/contact.component';
+import { ReturnComponent } from './return/return.component';
+import { TandcComponent } from './tandc/tandc.component';
+import { ShipComponent } from './ship/ship.component';
+import { PpolicyComponent } from './ppolicy/ppolicy.component';
 
 @NgModule({
   imports: [
@@ -22,7 +26,11 @@ import { ContactComponent } from './contact/contact.component';
     TopBarComponent,
     ProductListComponent,
     FooterComponent,
-    ContactComponent
+    ContactComponent,
+    ReturnComponent,
+    TandcComponent,
+    ShipComponent,
+    PpolicyComponent
   ],
   bootstrap: [ AppComponent ]
 })
