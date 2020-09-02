@@ -21,7 +21,7 @@ images = ['https://raw.githubusercontent.com/phiwesriva/angular-mn8emkeswatinipr
   }
   products = products;
 }
-}
+
 /*
   products = products;
 
