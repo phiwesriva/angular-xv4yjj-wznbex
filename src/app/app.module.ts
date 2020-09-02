@@ -17,6 +17,7 @@ import { PpolicyComponent } from './ppolicy/ppolicy.component';
   imports: [
     BrowserModule,
     ReactiveFormsModule,
+    NgbModule,
     RouterModule.forRoot([
       { path: '', component: ProductListComponent },
     ])
